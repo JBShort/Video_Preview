@@ -1,0 +1,18 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.container{
+    min-height: 900px;
+    background-color: black;
+    text-align: center;
+    color: whitesmoke;
+    display: flex;
+    align-content: center;
+}
+
+#video{
+    margin: 0px auto;
+    align-content: center;
+}
